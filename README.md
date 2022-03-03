@@ -1,4 +1,9 @@
-### Hi there 👋
+### Oi, meu nome é Jeniffer Cristina
+
+- 🔭 Atualmente não trabalho com desenvolvimento.
+- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
+- 💬 No momento estou fazendo cursos de Python na plataforma Udemy - Programação em Python do básico ao avançado. 
+- 📫 Meu e-mail para contato é: jennycristina.1998@gmail.com
 
 <!--
 **Jennyads/Jennyads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
