@@ -1,9 +1,35 @@
-### Oi, meu nome é Jeniffer Cristina
+# Seja Bem-vindo!
+Olá, o meu nome é Jeniffer Cristina! :grinning: :thumbsup:<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino estadual _**Fatec SJC**(São José Dos Campos)_ :man_student:, atualmente estou indo para o meu segundo semestre :grin:, sou apaixonado por aprender! :cowboy_hat_face: 
 
 - 🔭 Atualmente não trabalho com desenvolvimento.
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
 - 💬 No momento estou fazendo cursos de Python na plataforma Udemy - Programação em Python do básico ao avançado. 
 - 📫 Meu e-mail para contato é: jennycristina.1998@gmail.com
+
+---
+## Linguagens
+Atualmente estou aprendendo algumas linguagens de programção e marcação :nerd_face: :earth_americas:<br>
+### Aprendendo
+* Python
+* Java
+* HTML5, CSS3.
+
+### Pretendo Aprender
+* Banco de dados
+* JavaScript
+
+
+---
+## Aprendizagem por Projetos Integrados
+Na Fatec SJC, aplica-se o uso da metodologia ágil :runner:, onde é feito projetos por semestre, com base em problemáticas reais do cenário empresário. Projetos esses que vem de empresas presentes no Parque Tecnológico, onde apenas no primeiro semestre o projeto vem de um cliente interno da Fatec SJC. [Conheça um pouco mais sobre cada semestre.](https://github.com/mateushlsilva/mateushlsilva/blob/main/links.pdf)
+
+-  [x] [1º Semestre](https://github.com/mateushlsilva/API_1SEM)
+-  [ ] 2º Semestre
+-  [ ] 3º Semestre
+-  [ ] 4º Semestre
+-  [ ] 5º Semestre
+-  [ ] 6º Semestre
+
 
 <div>
   <a href="https://github.com/Jennyads">
