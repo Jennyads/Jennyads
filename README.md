@@ -1,9 +1,9 @@
 # Seja Bem-vindo!
-Olá, o meu nome é Jeniffer Cristina! :grinning: :thumbsup:<br>
+Olá, meu nome é Jeniffer Cristina! :grinning: :thumbsup:<br>
 Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino FATEC São José dos Campos - Prof. Jessen Vidal. 
 
 - 🔭 Atualmente, não trabalho profissionalmente com desenvolvimento.
-- 💬 No momento estou fazendo cursos de Python na plataforma Udemy - Programação em Python do básico ao avançado. 
+- 💬 No momento, estou fazendo cursos de Python na plataforma Udemy - Programação em Python do básico ao avançado. 
 - 📫 Meu e-mail para contato é: jennycristina.1998@gmail.com
 
 ---
