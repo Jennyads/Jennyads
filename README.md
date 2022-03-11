@@ -8,7 +8,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 
 ---
 ## Linguagens
-Atualmente estou aprendendo algumas linguagens de programção e marcação :nerd_face: :earth_americas:<br>
+
+Experiências foram adquiridas com linguagens de programação e marcação, visando um maior aprofundamento e desenvolvimento em cada uma delas. :nerd_face: :earth_americas:<br>
+
 ### Aprendendo
 * Python
 * Java
