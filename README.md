@@ -21,7 +21,7 @@ Atualmente estou aprendendo algumas linguagens de programção e marcação :ner
 
 ---
 ## Aprendizagem por Projetos Integrados
-Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde é feito projetos por semestre, com base em problemáticas reais do cenário empresarial. Esse projetos são oriundo de empresas presentes no parque tecnológico, sendo que somente no primeiro semestre o projeto é desenvolvido a partir de um problema interno promovido pela Fatec SJC. [Conheça um pouco mais sobre cada semestre.](https://https://github.com/Jennyads?tab=repositories)
+Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde é feito projetos por semestre, com base em problemáticas reais do cenário empresarial. Esse projetos são oriundo de empresas presentes no parque tecnológico, sendo que somente no primeiro semestre o projeto é desenvolvido a partir de um problema interno promovido pela Fatec SJC. 
 
 -  [x] [1º Semestre](https://github.com/Jennyads/API_1SEM)
 -  [ ] 2º Semestre
