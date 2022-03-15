@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 
 - 🔭 Atualmente, não trabalho profissionalmente com desenvolvimento.
 - 💬 No momento, estou fazendo cursos de Python e Java na plataforma Udemy - Programação em Python do básico ao avançado e Java COMPLETO Programação Orientada a Objetos +Projetos
-. Cursos concluidos: 
+<h4>Cursos concluidos:</h4> 
 * Lógica de Programação e Algoritmos - UDEMY, 2021.
 * PC Hardware and Software - Cisco Networking Academy, 2021
 
