@@ -3,9 +3,13 @@ Olá, meu nome é Jeniffer Cristina! :grinning: :thumbsup:<br>
 Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino FATEC São José dos Campos - Prof. Jessen Vidal. 
 
 - 🔭 Atualmente, não trabalho profissionalmente com desenvolvimento.
-- 💬 No momento, estou fazendo cursos de Python e Java na plataforma Udemy 
+- 💬 No momento, estou fazendo cursos de Python e Java na plataforma Udemy.
+
+<h4>Em andamento:</h4>
+
 - Programação em Python do básico ao avançado 
 - Java COMPLETO Programação Orientada a Objetos +Projetos
+
 <h4>Cursos concluidos:</h4> 
 
 * Lógica de Programação e Algoritmos - UDEMY, 2021.
