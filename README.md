@@ -22,7 +22,7 @@ Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve proj
 -  [x] [2º Semestre](https://github.com/EquipeApolo/API-2-Semestre)
 -  [x] [3º Semestre](https://github.com/EquipeApolo/API_3_Semestre)
 -  [x] [4º Semestre](https://github.com/peonia-api/API_4_Semestre)
--  [ ] 5º Semestre
+-  [x] [5º Semestre](https://github.com/peonia-api/API_5_Semestre)
 -  [ ] 6º Semestre
 
 <!--
