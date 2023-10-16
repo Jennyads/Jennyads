@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
  
 ---
 ## Aprendizagem por Projetos Integrados
-Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve projetos por semestre, com base em problemáticas reais do cenário empresarial e tecnológico. Esses projetos são oriundos de empresas grandes ou pequenas, dentre essas empresas se encontra a Pro4tech e a Embraer. No primeiro semestre o projeto foi desenvolvido a partir de um problema interno promovido pela Fatec SJC.  
+Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve projetos por semestre, com base em problemáticas reais do cenário empresarial e tecnológico. Esses projetos são oriundos de empresas grandes ou pequenas, dentre essas empresas se encontra a Pro4tech, Embraer, Ionic health e Imagem Geosistemas. No primeiro semestre o projeto foi desenvolvido a partir de um problema interno promovido pela Fatec SJC.  
 
 -  [x] [1º Semestre](https://github.com/EquipeApolo/API_1SEM)
 -  [x] [2º Semestre](https://github.com/EquipeApolo/API-2-Semestre)
