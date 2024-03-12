@@ -2,17 +2,63 @@
 Olá, meu nome é Jeniffer Cristina! :thumbsup:<br>
 Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino FATEC São José dos Campos - Prof. Jessen Vidal. 
 
-<div style="background-color:000">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E30B5C&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E30B5C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JENIFFER;I'M+A+DEVELOPER+INTERN+AT+DM;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+### ⚙️ GitHub Analytics
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Jennyads&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennyads&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Jennyads&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jennyads&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFF&bg_color=000" alt="Jeniffer github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennyads&layout=compact&hide_border=true&title_color=E30B5C&text_color=FFF&bg_color=000" />
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Jennyads&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
- </div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
  
 ---
 ## Aprendizagem por Projetos Integrados
