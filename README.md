@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jennyads&include_all_commits=true&count_private=true&show_icons=true alt="Jeniffer github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jennyads&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFF&bg_color=000" alt="Jeniffer github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennyads&layout=compact&hide_border=true&title_color=E30B5C&text_color=FFF&bg_color=000" />
 </div>
  </div>
