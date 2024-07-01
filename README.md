@@ -80,6 +80,7 @@ Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve proj
   
  |   Curso  |    Plataforma de Ensino    |
  | :------:      | :------: |
+ | Inteligência artificial e Java: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI - Cursando | Alura |
  | Golang, Postgres e React num projeto fullstack de finanças - Cursando | UDEMY |
  | Aprenda Flutter e Desenvolva Apps Para Android e IOS - Cursando | UDEMY |
  | [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/certificate/UC-1438aad8-144f-4ca4-8938-10512b604c5c/) | UDEMY |
