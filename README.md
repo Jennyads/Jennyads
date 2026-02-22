@@ -1,66 +1,17 @@
-# Seja Bem-vindo!
-Olá, meu nome é Jeniffer Cristina! :thumbsup:<br>
-Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino FATEC São José dos Campos - Prof. Jessen Vidal. 
+Sou desenvolvedora de software com foco em back-end e engenharia de sistemas distribuídos em Fintech, atuando principalmente com Java, Golang e Python na construção de aplicações escaláveis, resilientes e de alta performance.
 
-### ⚙️ GitHub Analytics
+Tenho experiência prática no desenvolvimento de microsserviços, integrações via gRPC e REST, aplicação de princípios SOLID, design patterns e boas práticas de arquitetura, sempre priorizando código limpo, testável e de fácil manutenção.
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Jennyads&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jennyads&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Jennyads&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+Atuo com ecossistemas cloud-native utilizando AWS, Docker, Kafka, Temporal Workflow e CI/CD, além de bancos de dados relacionais e NoSQL como PostgreSQL, DynamoDB, Gremlin e MongoDB. Também aplico conceitos de observabilidade com Datadog, criação de métricas customizadas e monitoramento contínuo, garantindo estabilidade e confiabilidade em produção.
 
---- 
+Meu objetivo é evoluir continuamente como engenheira de software, aprofundando meus conhecimentos em arquitetura distribuída, mensageria e inteligência artificial aplicada ao backend, contribuindo para projetos que unem inovação tecnológica e excelência em engenharia.
 
-### 🏆 GitHub Profile Trophy
+🎓 Pós-graduanda em Tecnologia Java pela UTFPR
+🎓 Graduada em Análise e Desenvolvimento de Sistemas pela FATEC São José dos Campos
+📜 Certificações em gRPC, Docker, Apache Kafka, Engenharia de Software, Design Patterns e IA com OpenAI
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=Jennyads&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
----
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
- 
----
 ## Aprendizagem por Projetos Integrados
 Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve projetos por semestre, com base em problemáticas reais do cenário empresarial e tecnológico. Esses projetos são oriundos de empresas grandes ou pequenas, dentre essas empresas se encontra a Pro4tech, Embraer, Ionic health e Imagem Geosistemas. No primeiro semestre o projeto foi desenvolvido a partir de um problema interno promovido pela Fatec SJC.  
 
