@@ -31,9 +31,11 @@ Na Fatec, aplica-se o uso da metodologia ágil :runner:, onde se desenvolve proj
   
  |   Curso  |    Plataforma de Ensino    |
  | :------:      | :------: |
- | Inteligência artificial e Java: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI - Cursando | Alura |
+ | C# COMPLETO Programação Orientada a Objetos + Projetos - Cursando | UDEMY |
+ | Design Patterns em C# - Cursando | UDEMY |
  | Golang, Postgres e React num projeto fullstack de finanças - Cursando | UDEMY |
  | Aprenda Flutter e Desenvolva Apps Para Android e IOS - Cursando | UDEMY |
+ | [Inteligência artificial e Java: crie ferramentas poderosas e chatbots inteligentes com as APIs da OpenAI - Cursando](https://cursos.alura.com.br/degree/certificate/deacbd24-fe9f-492c-98d6-67bb3f5129d4?lang) | Alura |
  | [gRPC [Golang] Master Class: Build Modern API & Microservices](https://www.udemy.com/certificate/UC-1438aad8-144f-4ca4-8938-10512b604c5c/) | UDEMY |
  | [Docker para Desenvolvedores com Docker Swarm e Kubernetes](https://www.udemy.com/certificate/UC-96239902-6306-4c60-810c-b7dc43418dba/)| UDEMY |
  | [Domine Apache Kafka, Fundamentos e Aplicações Reais](https://www.udemy.com/certificate/UC-06cf380a-ef44-44dc-a2b3-5d9deb4c9084/) | UDEMY |
