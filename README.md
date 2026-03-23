@@ -1,4 +1,4 @@
-Sou desenvolvedora de software com foco em back-end e engenharia de sistemas distribuídos em Fintech, atuando principalmente com Java, Golang e Python na construção de aplicações escaláveis, resilientes e de alta performance.
+Sou desenvolvedora de software com foco em back-end e engenharia de sistemas distribuídos em Fintech, atuando principalmente com Java, Golang e C# na construção de aplicações escaláveis, resilientes e de alta performance.
 
 Tenho experiência prática no desenvolvimento de microsserviços, integrações via gRPC e REST, aplicação de princípios SOLID, design patterns e boas práticas de arquitetura, sempre priorizando código limpo, testável e de fácil manutenção.
 
